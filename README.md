@@ -4,6 +4,8 @@
 
 > 注：本项目目前缺少 MacOS / OSX 以及 *UNIX 教程，欢迎提交 PR / issue 补充，在 Github 活动时请注意隐私
 
+> 若您不信任 Github，可以选择在 [喵窝](https://nya.one/) 讨论。讨论板地址为：[URL](https://nya.one/notes/8o6zzr4yni)
+
 ## 软件选择
 
 ### 浏览器
