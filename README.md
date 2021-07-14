@@ -24,7 +24,7 @@
 
   > **使用时请注意，必须设置前置代理。**
   >
-  > ![](/img/tor.png)
+  > ![](./img/tor.png)
   >
   > 在中国大陆地区直连Tor，无论使用何种方式，都有被喝茶的案例，而且执法机关会明确告知你传唤你是因为使用了Tor，问你是否接触了某些东西
 
@@ -199,19 +199,21 @@
 
 ### 隐私邮箱
 
+> 实测前两个可以绑定Twitter，第三个没有测试
+
 - [ProtonMail](https://protonmail.com/)
 
   > 开源
   >
   > 优点：一个台湾人到瑞士成立企业做的隐私邮箱，得益于瑞士法律的保护，数据理论上绝对安全，目前可信
   >
-  > 缺点：免费帐户容易封号
+  > 缺点：免费帐户容易封号，2FA只支持 totp
 
 - [Tutanota](https://tutanota.com/zh_hans/)
 
   > 开源
   >
-  > 优点：免费帐户很少被封禁，数据中心位于德国，对隐私保护较好，内置密钥算法为 “前向加密”，目前可信
+  > 优点：免费帐户很少被封禁，数据中心位于德国，对隐私保护较好，内置密钥算法为 “前向加密”，目前可信，2FA支持 totp 和 Fido 硬件密钥
   >
   > 缺点：新账户48小时内无法收发信
 
@@ -221,3 +223,112 @@
   >
   > 缺点：及其难用
 
+---
+
+
+
+### 输入法
+
+> 远离国产！远离国产！远离国产！
+
+#### Windows / MacOS(OSX)
+
+- 建议原生输入法即可
+
+#### iOS / Android
+
+- Gboard
+
+  - Android
+    - [Google Play](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin)
+    - [APKpure](https://apkpure.com/gboard-the-google-keyboard/com.google.android.inputmethod.latin)
+
+  - iOS
+    - [App Store](https://apps.apple.com/us/app/gboard-the-google-keyboard/id1091700242)（该软件在国区没有上架，需要到外区下载）
+
+#### Android  Only
+
+- [florisboard](https://github.com/florisboard/florisboard)（开源）
+  - [D-Droid](https://f-droid.org/packages/dev.patrickgold.florisboard/)
+
+---
+
+
+
+### Apk Store
+
+#### Android
+
+- [F-Droid](https://f-droid.org/)
+- [Google Play](https://play.google.com/store) 
+  (更建议使用前者)
+
+---
+
+
+
+### 2FA (TOTP)
+
+- Google Authenticator
+
+  - Android
+    - [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
+    - [Apk Pure](https://apkpure.com/google-authenticator/com.google.android.apps.authenticator2)
+
+  - iOS
+    - [App Store](https://apps.apple.com/us/app/google-authenticator/id388497605)
+
+
+
+## 软件使用
+
+### 浏览器
+
+- 建议开启 DNS-over-HTTPS，详情参考 [/post/doh.md](./post/doh.md)
+
+
+
+### IM
+
+- WeChat / QQ ：不想炸号就少聊跨性别话题（
+
+- Telegram：建议按下图设置 ↓，除此以外，**必须开启两步验证**
+
+  > ![](./img/telegram.png)
+
+  
+
+- Signal / WhatsApp：使用 Google Voice / Textnow 注册
+
+- Element：使用隐私邮箱注册
+
+
+
+### 其他平台
+
+- Twitter
+
+  - 开启两步验证：
+
+    > 电脑端：浏览器内打开 https://twitter.com/settings/security 即可设置
+    >
+    > 手机端：“设置和隐私” - ”安全性和账号访问权限“ - ”安全“ - ”双重身份验证“
+
+  - 发图时注意隐私
+
+    - 聚会拍摄的 Twitter 主页要注意抹除所有人的生日信息
+    - 线下见面地点的招牌不建议露出（除非你是去打卡的）
+    - 发带有人的照片时，可以使用 Twitter 自带图片编辑器中的表情遮挡面部
+      （选择好图片后点确认，在文字编辑状态下点击图片，下方工具栏左数第四个可以添加表情）
+
+  - 必要时可以锁推：
+
+    > 电脑端：打开 https://twitter.com/settings/audience_and_tagging 即可设置
+    >
+    > 手机端：”设置和隐私“ - "你的账号" - “账号信息” - “受保护的推文”，勾选打开即可
+
+- BiliBili
+
+  >  近期观察到有一些 MtF 群体将 B站 当作朋友圈发，所以添加该板块
+
+  BiliBili 可以使用 Google Voice 注册。
