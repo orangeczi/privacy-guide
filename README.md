@@ -5,6 +5,7 @@
 > 注：本项目目前缺少 MacOS / OSX 以及 *UNIX 教程，欢迎提交 PR / issue 补充，在 Github 活动时请注意隐私
 
 > 若您不信任 Github，可以选择在 [喵窝](https://nya.one/) 讨论。讨论板地址为：[URL](https://nya.one/notes/8o6zzr4yni)
+> 您也可以使用 ProtonMail / Tutanota 联系我，我的邮箱是 [orangexczi@protonmail.com](mailto:orangexczi@protonmail.com)
 
 # 目录
 
@@ -30,8 +31,11 @@
 
 - [软件使用](#软件使用)
   - [浏览器](#浏览器)
-  - [IM](#IM)（包括Telegram、Signal、WhatsApp、Element）
+  - [IM](#IM)
   - [其他平台](#其他平台)
+    - [Twitter](#Twitter)
+    - [Bilibili](BiliBili)
+    - ~~[Google](#Google)（Google不可信）~~
 
 ## 软件选择
 
@@ -377,7 +381,3 @@ BiliBili 可以使用 Google Voice 注册。
 #### Google
 
 - Google 并不可信。
-
-
-
-[]: 
