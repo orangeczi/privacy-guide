@@ -278,8 +278,6 @@
   - iOS
     - [App Store](https://apps.apple.com/us/app/google-authenticator/id388497605)
 
-
-
 ## 软件使用
 
 > 首先明确一个观点：不建议以内地平台常用 ID 公开性取向（内外同ID，发在海外平台也不建议）
@@ -344,4 +342,8 @@
   >  近期观察到有一些 MtF 群体将 B站 当作朋友圈发，所以添加该板块
 
   BiliBili 可以使用 Google Voice 注册。
+
+- Google
+
+  Google 并不可信。
 
